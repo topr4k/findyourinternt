@@ -1,0 +1,12 @@
+c:\users\franco\documents\visual studio 2013\Projects\HackMTY2018_Residencias\HackMTY2018_Residencias\bin\Debug\HackMTY2018_Residencias.exe.config
+c:\users\franco\documents\visual studio 2013\Projects\HackMTY2018_Residencias\HackMTY2018_Residencias\obj\Debug\HackMTY2018_Residencias.csprojResolveAssemblyReference.cache
+c:\users\franco\documents\visual studio 2013\Projects\HackMTY2018_Residencias\HackMTY2018_Residencias\obj\Debug\HackMTY2018_Residencias.Form1.resources
+c:\users\franco\documents\visual studio 2013\Projects\HackMTY2018_Residencias\HackMTY2018_Residencias\obj\Debug\HackMTY2018_Residencias.Properties.Resources.resources
+c:\users\franco\documents\visual studio 2013\Projects\HackMTY2018_Residencias\HackMTY2018_Residencias\obj\Debug\HackMTY2018_Residencias.csproj.GenerateResource.Cache
+c:\users\franco\documents\visual studio 2013\Projects\HackMTY2018_Residencias\HackMTY2018_Residencias\bin\Debug\HackMTY2018_Residencias.exe
+c:\users\franco\documents\visual studio 2013\Projects\HackMTY2018_Residencias\HackMTY2018_Residencias\bin\Debug\HackMTY2018_Residencias.pdb
+c:\users\franco\documents\visual studio 2013\Projects\HackMTY2018_Residencias\HackMTY2018_Residencias\obj\Debug\HackMTY2018_Residencias.exe
+c:\users\franco\documents\visual studio 2013\Projects\HackMTY2018_Residencias\HackMTY2018_Residencias\obj\Debug\HackMTY2018_Residencias.pdb
+c:\users\franco\documents\visual studio 2013\Projects\HackMTY2018_Residencias\HackMTY2018_Residencias\obj\Debug\HackMTY2018_Residencias.Form2.resources
+c:\users\franco\documents\visual studio 2013\Projects\HackMTY2018_Residencias\HackMTY2018_Residencias\obj\Debug\HackMTY2018_Residencias.Form3.resources
+c:\users\franco\documents\visual studio 2013\Projects\HackMTY2018_Residencias\HackMTY2018_Residencias\obj\Debug\HackMTY2018_Residencias.Form4.resources
